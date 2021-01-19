@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #invaiders must die
 #copyleft inhell 2009
-vad@tXXmoXa.su
+#vad@tXXmoXa.su
 
 import threading
 import socket
